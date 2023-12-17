@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Happy New Year",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "Tet",
+      "color": "black",
+      "style": "simple"
+    },
+    {
+      "name": "Happy Tet",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "Tet",
+      "color": "colorful",
+      "style": "modern"
+    },
+    {
+      "name": "Tet 2024",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "Tet",
+      "color": "colorful",
+      "style": "modern"
+    },
+    {
+      "name": "Christmas",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "christmas",
+      "color": "black",
+      "style": "simple"
+    },
+    {
+      "name": "Birthday card",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "birthday",
+      "color": "pink",
+      "style": "modern"
+    },
+    {
+      "name": "wedding",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "wedding",
+      "color": "blue",
+      "style": "modern"
+    },
+    {
+      "name": "birthday",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "birthday",
+      "color": "black",
+      "style": "simple"
+    },
+    {
+      "name": "tet card",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "Tet",
+      "color": "colorful",
+      "style": "modern"
+    },
+    {
+      "name": "paty",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "bithday",
+      "color": "colorful",
+      "style": "modern"
+    },
+    {
+      "name": "business",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "business",
+      "color": "black",
+      "style": "simple"
+    },
+    {
+      "name": "birthday cool",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "birthday",
+      "color": "pink",
+      "style": "modern"
+    },
+    {
+      "name": "tet festival",
+      "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
+      "category": "Tet",
+      "color": "blue",
+      "style": "modern"
+    }
+  ]
+  
