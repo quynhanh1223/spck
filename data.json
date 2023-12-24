@@ -4,84 +4,99 @@
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "Tet",
       "color": "black",
-      "style": "simple"
+      "style": "simple",
+      "image": "https://scontent.subi.vn/cmsmedia/mot-trong-nhung-loi-chuc-tet-tieng-anh-hay-nhat-moi-thoi-dai-674857a4525781aa84ace142e95aee6d.jpg"
     },
     {
       "name": "Happy Tet",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "Tet",
       "color": "colorful",
-      "style": "modern"
+      "style": "modern",
+      "image": "https://image.dienthoaivui.com.vn/x,webp,q90/https://dashboard.dienthoaivui.com.vn/uploads/dashboard/editor_upload/chuc-tet-bang-tieng-anh-2.jpg"
     },
     {
       "name": "Tet 2024",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "Tet",
       "color": "colorful",
-      "style": "modern"
+      "style": "modern",
+      "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2023/11/3/1262837/Nghi-Tet-2024.jpg?w=800&h=496&crop=auto&scale=both"
+
     },
     {
       "name": "Christmas",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "christmas",
       "color": "black",
-      "style": "simple"
+      "style": "simple",
+      "image": "https://image.baodauthau.vn/1200x630/Uploaded/2023/ovhpuht/2023_09_23/08-3-6705.jpg"
     },
     {
       "name": "Birthday card",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "birthday",
       "color": "pink",
-      "style": "modern"
+      "style": "modern",
+      "image": "http://aroma.vn/wp-content/uploads/2015/02/nhung-cau-chuc-mung-nam-moi-hay-va-y-nghia-2.jpg"
     },
     {
       "name": "wedding",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "wedding",
       "color": "blue",
-      "style": "modern"
+      "style": "modern",
+      "image": "https://assets.editorial.aetnd.com/uploads/2010/02/lunarnewyearfestival.jpg"
     },
     {
       "name": "birthday",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "birthday",
       "color": "black",
-      "style": "simple"
+      "style": "simple",
+      "image": "https://scontent.subi.vn/cmsmedia/mot-trong-nhung-loi-chuc-tet-tieng-anh-hay-nhat-moi-thoi-dai-674857a4525781aa84ace142e95aee6d.jpg"
     },
     {
       "name": "tet card",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "Tet",
       "color": "colorful",
-      "style": "modern"
+      "style": "modern",
+      "image": "https://image.dienthoaivui.com.vn/x,webp,q90/https://dashboard.dienthoaivui.com.vn/uploads/dashboard/editor_upload/chuc-tet-bang-tieng-anh-2.jpg"
     },
     {
       "name": "paty",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "bithday",
       "color": "colorful",
-      "style": "modern"
+      "style": "modern",
+      "image": "https://media-cdn-v2.laodong.vn/storage/newsportal/2023/11/3/1262837/Nghi-Tet-2024.jpg?w=800&h=496&crop=auto&scale=both"
     },
     {
       "name": "business",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "business",
       "color": "black",
-      "style": "simple"
+      "style": "simple",
+      "image": "https://image.baodauthau.vn/1200x630/Uploaded/2023/ovhpuht/2023_09_23/08-3-6705.jpg"
     },
     {
       "name": "birthday cool",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "birthday",
       "color": "pink",
-      "style": "modern"
+      "style": "modern",
+      "image": "http://aroma.vn/wp-content/uploads/2015/02/nhung-cau-chuc-mung-nam-moi-hay-va-y-nghia-2.jpg"
     },
     {
       "name": "tet festival",
       "description": "Some quick example text to build on the card title and make up the bulk of the card's content",
       "category": "Tet",
       "color": "blue",
-      "style": "modern"
+      "style": "modern",
+      "image": "https://assets.editorial.aetnd.com/uploads/2010/02/lunarnewyearfestival.jpg"
     }
   ]
+  
+
   
