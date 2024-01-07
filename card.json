@@ -3,13 +3,19 @@
       "information":
         "Some quick example text to build on the card title and make up the bulk of the card's content.",
       "imgUrl":
-        "https://scontent.subi.vn/cmsmedia/mot-trong-nhung-loi-chuc-tet-tieng-anh-hay-nhat-moi-thoi-dai-674857a4525781aa84ace142e95aee6d.jpg"
-    },
+        "https://scontent.subi.vn/cmsmedia/mot-trong-nhung-loi-chuc-tet-tieng-anh-hay-nhat-moi-thoi-dai-674857a4525781aa84ace142e95aee6d.jpg",
+        "styles": {
+          "css": "width: 400px"
+        }
+      },
     {
       "information":
         "Some quick example text to build on the card title and make up the bulk of the card's content.",
       "imgUrl":
-        "https://image.dienthoaivui.com.vn/x,webp,q90/https://dashboard.dienthoaivui.com.vn/uploads/dashboard/editor_upload/chuc-tet-bang-tieng-anh-2.jpg"
+        "https://image.dienthoaivui.com.vn/x,webp,q90/https://dashboard.dienthoaivui.com.vn/uploads/dashboard/editor_upload/chuc-tet-bang-tieng-anh-2.jpg",
+        "styles": {
+          "css": "width: 400px"
+        }
     },
     {
       "information":

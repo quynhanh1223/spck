@@ -1,0 +1,8 @@
+.imgSize {
+    width: 70vw;
+    height: 600px;
+    object-fit: cover;
+}
+.textImage {
+    color: beige;
+}

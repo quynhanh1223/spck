@@ -28,9 +28,12 @@ fetch("./card.json")
       imgTag.src = item.imgUrl;
       pTag.innerText = item.information;
       // document.getElementById("content").classList.toggle("myStyle");
+
+      // content.classList.add("imgTag");
+      imgTag.classList.add("imgSize");
+      
     });
 
-    // console.log(res);
   });
 
   // function myFunction(){
