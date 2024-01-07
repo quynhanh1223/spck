@@ -31,6 +31,7 @@ fetch("./card.json")
 
       // content.classList.add("imgTag");
       imgTag.classList.add("imgSize");
+      pTag.classList.add("textImage");
       
     });
 
